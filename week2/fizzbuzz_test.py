@@ -1,12 +1,12 @@
 from fizzbuzz import one_punch_function
 
-def test_choice_one():
-    a = one_punch_function(1)
-    assert a == "2"
-
 # def test_choice_one():
 #     a = one_punch_function(1)
-#     assert a == "1"
+#     assert a == "2"
+
+def test_choice_one():
+    a = one_punch_function(1)
+    assert a == "1"
 
 def test_choice_two():
     a = one_punch_function(2)
