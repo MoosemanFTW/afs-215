@@ -23,6 +23,6 @@ class Dog(object):
 # think of a class as a set of instructions for how to make an instance. 
 # The class Dog is a set of instructions for how to make individual isntances representing specific dogs
 
-# my_dog = Dog('fiji', 3)
-# my_dog.sit()
+my_dog = Dog('fiji', 3)
+my_dog.sit()
 # my_dog.roll_over()
