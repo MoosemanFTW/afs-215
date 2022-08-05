@@ -34,13 +34,13 @@ class TodoDictionary:
 
 
 
-TD1 = TodoDictionary()
-TD1.ShowList()
-TD1.AddTodo()
-TD1.ShowList()
-TD1.RemoveFirst()
-TD1.ShowList()
-TD1.RemoveLast()
-TD1.ShowList()
-TD1.RemoveTodo()
-TD1.ShowList()
+# TD1 = TodoDictionary()
+# TD1.ShowList()
+# TD1.AddTodo()
+# TD1.ShowList()
+# TD1.RemoveFirst()
+# TD1.ShowList()
+# TD1.RemoveLast()
+# TD1.ShowList()
+# TD1.RemoveTodo()
+# TD1.ShowList()
